@@ -1,7 +1,6 @@
 # swat-check-www-authenticate
 
-Simple swat checker for server return "WWW-Authenticate:" header.
-
+Simple swat checker for http server return "WWW-Authenticate:" header.
 
 # INSTALL
 
